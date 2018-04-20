@@ -2,7 +2,7 @@
 $var = $_GET['cmd'];
 if(isset($var))
 {
-	echo "Display /etc/passwd contents via command execution!<br>";
+	echo "Print /etc/passwd contents via cat commande only!<br>";
 	$var = str_replace("cat","oops",$var);
 	$var = str_replace("/cat","oops",$var);
 	$var = str_replace("/etc/","oops",$var);
