@@ -12,8 +12,8 @@ Challenges
 #### Env: Linux, NT
 
 ##### Find the flag during execution.
-* Intended way: Using source code review
-* Unintended way: Use debugger
+* Intended way: Source code review
+* Unintended way: Using debugger
 
 Cracked by Akash Kumar Sharma and Ravi Rajput in < 30mins
 > null Ahmedabad June'18 Meetup
