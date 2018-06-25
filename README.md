@@ -1,6 +1,6 @@
 Challenges
 ==============
-#### Hands-on challenges presented in null ahmedabad meets
+#### Hands-on challenges give during null ahmedabad meets
 ## 1. rce.php:
 #### Env: Linux
 #### Installation:
